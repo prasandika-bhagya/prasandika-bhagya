@@ -20,7 +20,7 @@
 -  ⚙️ Software Development
 -  ⚙️ Data Science & Machine Learning
 -  ⚙️ Web Development
--  ⚙️ Data Base Management Systems
+-  ⚙️ Database Management Systems
 -  ⚙️ Information Technology
 
 <br>
