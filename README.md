@@ -3,7 +3,7 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/PrasandikaB?label=Follow&style=social)](https://twitter.com/PrasandikaB)
-### B  H  A  G  Y  A   P  R  A  S  A  N  D  I  K  A
+### B  &nbsp H  A  G  Y  A   P  R  A  S  A  N  D  I  K  A
 #### I am a Software Engineering Undergraduate with a passion for coding. I am interested in Software development, Web development, Artificial Intelligence, and related fields.
 
 ## Education
