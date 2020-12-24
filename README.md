@@ -8,7 +8,7 @@
 
 ## Education
 
--  🎓 BEng in Software Engineering - University of Westminster, UK
+-  🎓 BEng in Software Engineering (UG) - University of Westminster, UK
 -  🎓 Diploma in Information Technology with e commerce - Pearson, UK
 -  🏫 ESOL YLE - University of Cambridge, UK
 -  📜 CNSS Certified Network Security Specialist - ICSI, UK
