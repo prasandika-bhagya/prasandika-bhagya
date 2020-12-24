@@ -1,7 +1,6 @@
-#                                                 HELLO WORLD 😋
-
+#                                                 HELLO WORLD 😋 
 ### B  &nbsp; H &nbsp;  A &nbsp;  G &nbsp;  Y &nbsp;  A &nbsp; &nbsp;  P &nbsp;  R &nbsp;  A &nbsp;  S &nbsp;  A &nbsp;  N &nbsp;  D &nbsp;  I &nbsp;  K &nbsp;  A
-<br>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/PrasandikaB?label=Follow&style=social)](https://twitter.com/PrasandikaB) 
 
 <br>
