@@ -38,6 +38,6 @@
 
 [linkedin]: https://www.linkedin.com/in/bhagya-prasandika/
 [twitter]: https://twitter.com/PrasandikaB
-[Hackerrank]: https://www.hackerrank.com/prasandikabhagya
+[Hackerrank]: https://www.hackerrank.com/bhagyaprasandika
 [instagram]: https://www.instagram.com/__prasandika.b__/
 [Facebook]: https://www.facebook.com/bhagya.prasandika.5/
